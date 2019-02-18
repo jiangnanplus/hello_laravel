@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello Laravel
+                    Hello Laravel China
                 </div>
 
                 <div class="links">
